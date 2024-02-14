@@ -1,4 +1,4 @@
-# Virtual Assistant App in Flutter
+# sneaker App in Flutter
 
 ## Introduction
 Introducing the Sneaker Hub App, built with cutting-edge technology and sleek design to revolutionize your footwear shopping experience. Whether you're a sneakerhead or simply seeking stylish kicks, our app is your ultimate destination. With an intuitive interface and state-of-the-art features, Sneaker Hub brings personalized recommendations and seamless navigation to your fingertips. From exclusive releases to classic favorites, explore a curated collection tailored to your taste. Get ready to step up your shoe game with the Sneaker Hub App.
